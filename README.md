@@ -1,1 +1,2 @@
-# Input Based Search of Images displays a gallery of Images. Built using React and Unsplash API
+# Image Search
+Input Based Search of Pictures displays a gallery of Images. Built using React and Unsplash API (for fetching the images)
